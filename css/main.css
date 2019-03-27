@@ -1,3 +1,45 @@
 main {
   font-family: 'Merriweather', serif;
 }
+
+tr {
+  border-color: #ccc;
+  border-style: solid;
+  border-width: thin;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  border-color: #666;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: thin;
+  color: #333;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: thin;
+  color: #991919;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: thin;
+  color: #38448e;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: thin;
+  color: #51603f;
+}
